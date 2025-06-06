@@ -1,4 +1,4 @@
-LucaP ERP 8: Templates and protocols
+# LucaP ERP 8: Templates and protocols
 #LucaP
 
 We've been making an ERP system from scratch. The goal is to understand the craft of coding an ERP. You may never attempt what I'm doing here and write your own. Still, if you have to maintain one, you'll find the necessary skills, especially with some people adding AI-generated code to your project without cleaning it up before production. There are many decisions developers need to make, not only at the coding level but also regarding how an ERP works from the accounting and workflow levels.  
